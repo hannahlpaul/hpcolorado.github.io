@@ -151,11 +151,11 @@ p {
 }
 
 .btn-primary {
-  background-color: #64a19d;
+  background-color: Black;
 }
 
 .btn-primary:hover {
-  background-color: #4f837f;
+  background-color: LightGray;
 }
 
 .btn-primary:focus {
@@ -291,6 +291,7 @@ h3,
 h4,
 h6 {
 	color: white;
+	text-align: center;
 }
 
 .bg-black {
